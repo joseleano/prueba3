@@ -1,0 +1,79 @@
+
+
+
+		Diplomado en Desarrollo de Aplicaciones para Dispositivos Móviles · Clase #2
+
+		
+
+
+		Descargar ambos paquetes de los siguientes websites:
+
+
+
+
+		- Git Sistema de control de versiones:
+		http://git-scm.com/downloads
+
+
+
+
+		- Aplicación de escritorio para los repositorios en Github:
+		https://windows.github.com/
+
+
+
+		
+		Sitemas de control de versiones:
+
+		- Git
+		- Start Team
+		- TFS
+		- Visual Source Safe
+		- Subversion (SVN)
+		- Tortoise 
+		- Mercurial
+		
+
+		Características:
+		
+		- Evolución historica del código				- Versiones = Estado, Madurez
+		- Historica							- Compartir código
+		- Evolución historica del código				- Centralizar
+		- Edición por usuario						- Repositorio
+		- Control de Cambios						- Sistema de Respaldos
+		- Respaldar y comparar
+
+
+
+		Versionado semántico:    (Como determinar la versión de mi app)
+
+		x.x.x
+
+		1.2.4                                     1.    	2.      	4.
+							  v             v               v
+	
+							Major        Minor            Pacth
+
+
+
+		Major = Cambios grandes en la aplicación, muy relevantes
+		Minor = Pequeños cambios en la aplicación
+		Patch = Cambios de terceros o recursos que han cambiado.
+
+
+
+		Github schools = para tener repositorios privados gratis. 
+		
+		http://githut.info     ver las tendencias de lenguajes de programación    
+		
+
+		http://githut.info/      Ver las tendencias de temas y proyectos mas trabajados
+
+		https://www.gitignore.io             ignorar archivos que no necesito en el servidor
+
+		emmet plugin for sublime text or adobe dreamweaver =  optimizar tiempo y codigo
+
+
+		https://floobits.com/alejo8591/unipiloto-am2
+
+		
