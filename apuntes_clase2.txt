@@ -32,7 +32,7 @@
 		- Subversion (SVN)
 		- Tortoise 
 		- Mercurial
-		
+		- bitbucket
 
 		Características:
 		
@@ -76,4 +76,21 @@
 
 		https://floobits.com/alejo8591/unipiloto-am2
 
-		
+		http://schema.org/    esquemas de información para poner tags y mejorar la búsqueda.
+
+		Firefox developer edition - firefox os
+		Navegador de firefox para desarrolladores
+
+		les css
+		recurso para automatizar el css
+
+		sass - precompilador de css
+
+		Bootstrap - recurso de reticulas para maquetar
+
+		mucho más sencillo que el bootstrap:
+		http://getskeleton.com/
+
+
+
+
