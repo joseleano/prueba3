@@ -1,0 +1,15 @@
+body {
+background-color: #ff3300;	
+}
+h1 {
+color: #fff;	
+letter-spacing: 5px;
+text-shadow: 0px 2px 2px #000 ;
+font-family: helvetica, arial, verdana, san-serif;
+display: block;
+width: 100%;
+height: 30px;
+text-align: center;
+position: absolute;
+top: 300px;
+}
