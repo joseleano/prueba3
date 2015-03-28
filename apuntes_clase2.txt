@@ -1,4 +1,4 @@
-
+﻿
 
 
 		Diplomado en Desarrollo de Aplicaciones para Dispositivos Móviles · Clase #2
@@ -49,11 +49,11 @@
 
 		x.x.x
 
-		1.2.4                                     1.    	2.      	4.
-							  v             v               v
+		version 1.2.4                                     1.    	2.      	4.
+								  v             v               v
+								
+								Major        Minor            Pacth
 	
-							Major        Minor            Pacth
-
 
 
 		Major = Cambios grandes en la aplicación, muy relevantes
@@ -90,6 +90,74 @@
 
 		mucho más sencillo que el bootstrap:
 		http://getskeleton.com/
+
+
+		------------------------------------------   APUNTES CLASE #2 ---------------------------------------------------
+			
+
+		wireframe = boceto, Concretan la agrupación d econtenidos y arquitectura de información sin la capa visual final.
+
+		UX/UI = USER EXPERIENCE / USER INTERACTION
+   
+
+		popapp.in =  herramienta para hacer el proceso de bocetación y prototipado de una app.
+
+
+		balsamiq mockup = erramienta para hacer el proceso de bocetación y prototipado de una app.
+
+		PIWIK = Sirve para hacer analitics
+
+		M.V.P = producto minimo viable
+
+		Early adopters = primeros testers denuestra app
+
+		gamification = como incentivo el uso de las cosas
+
+		modelo E- R = modelo entidad relación
+
+		modelo de bases de datos no relacionadas = no SQL  -------->  para este tipo de bases usaban la herramienta Mongo DB	
+
+		https://university.mongodb.com/    ----> aprender mongo y obtener certificado gratis
+
+		www.capptivate.co
+
+		openclipart.org   =  obtener clip de uso libre
+
+		
+		MOOCS:
+
+		UDACITY
+
+		COURSERA
+
+		MONGODB
+
+		MIRIADA X 
+
+		UDEMY
+
+		EDX
+
+		exercism.io
+
+
+
+
+
+
+
+		
+
+		
+
+
+
+
+
+
+
+
+
 
 
 
